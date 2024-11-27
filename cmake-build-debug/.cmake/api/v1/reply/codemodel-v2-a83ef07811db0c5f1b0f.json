@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "displayNsga3Result",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "displayNsga3Result::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-displayNsga3Result-Debug-b8e35ba0da3c9d0e01c1.json",
+					"name" : "displayNsga3Result",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "displayNsga3Result_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-displayNsga3Result_autogen-Debug-2cc5c1932545c3aff0af.json",
+					"name" : "displayNsga3Result_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "displayNsga3Result_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-displayNsga3Result_autogen_timestamp_deps-Debug-0dc363a24f925f159e1e.json",
+					"name" : "displayNsga3Result_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oreste/CLionProjects/displayNsga3Result/cmake-build-debug",
+		"source" : "/home/oreste/CLionProjects/displayNsga3Result"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
